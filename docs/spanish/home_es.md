@@ -43,10 +43,9 @@ $ sflyn /path/to/index.sf
 ```
 3. Genial! Has creado tu primer código en Sflyn.
 ## Wiki
----
 Puedes encontrar mas sobre como trabajar con Sflynlang y su sintaxis en nuestra wiki.
+
 ## Ejemplos
----
 * [Hello World](https://github.com/sflynlang/compiler/blob/main/examples/hello_world.sf)
 * Clases
   * [Clases Sflyn](https://github.com/sflynlang/compiler/blob/main/examples/classes/Sflyn.sf)
