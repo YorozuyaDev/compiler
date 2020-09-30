@@ -1,16 +1,15 @@
 # Sflynlang Compiler
----
 Este repositorio contiene el código del compilador escrito en Rustlang par Sflylang
+
 ## Qué es Sflynlang?
----
 Sflylang es un lenguaje de programación multiparadigma y multiplataforma. El princpal objetivo es tener un lenguaje similar a TypeScript pero nativo para el explorador u otras aplicaciones; la sintaxis pretende ser mas sencilla y familiar para todo el mundo.
+
 ## Pre-requisitos
----
 * Rustlang
 * Rustup
 * Rustlang VS Code Extension (Optional)
+
 ## Instalación
---- 
 1. Ve a releases y clicka en la primera release que encuentres.
 2. Descarga el binario del compilador para tu sistema operativo.
 * Linux: `sflyn-x86_64-unknown-linux-gnu.zip`
@@ -24,11 +23,13 @@ Sflylang es un lenguaje de programación multiparadigma y multiplataforma. El pr
 7. Añade al path el path del enotorno.
 > Ejemplo: export PATH=$PATH:$HOME/sflynlang/bin.
 8. Ahora ya puedes correr código Sflyn!. Echa un vistazo a [Comenzando](#Comenzando).
+
 ## Como contribuir
----
 Por favor lee la guia de contribuciones y el código de conducta.
+
 ## Lista de cambios
 Los ultimos cambios en CHANGELOG.md
+
 ## Comenzando
 Para empezar a programar en Sflyn, puedes compilar tu primer `hola mundo!`:
 1. Crea un nuevo archivo que se llame `index.sf` con la siguiente linea:
@@ -69,21 +70,17 @@ Puedes encontrar mas sobre como trabajar con Sflynlang y su sintaxis en nuestra 
   * [Strings](https://github.com/sflynlang/compiler/blob/main/examples/variables/strings.sf)
   
 ## Redes Sociales
----
 * [Server de Discord](https://discord.com/invite/XdeRFHt)
 * [Twitter(@sflynlang)](https://twitter.com/sflynlang)
 * [Facebook (@sflynlang)](https://www.facebook.com/sflynlang)
 
 ## Contribuidores
---- 
 * Daniel Solarte - Trabajo Inicial - [Github](https://github.com/danielsolartech)
 * Maria Antonella - Icon Desing - [Instagram](https://www.instagram.com/raccon_324/)
 * LemonCod3 - Apoyo emocional -  [Organización Github](https://github.com/LemonCod3) 
 Puedes ver una lista de [contribuidores](https://github.com/sflynlang/compiler/graphs/contributors) aqui.
 
-Licencia
----
+## Licencia
 Este proyecto es desarrollado bajo licencia MIT. Lee [LICENSE](https://github.com/sflynlang/compiler/blob/main/LICENSE) para más información.
----
 
   
